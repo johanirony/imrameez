@@ -144,3 +144,10 @@ hr {
 	   
 
 }
+@media (max-width:900px) {
+	h2{
+       font-size:3.5em;	    
+	
+	}
+}
+	
